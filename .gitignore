@@ -1,0 +1,16 @@
+# Built artifacts
+target
+external
+
+# IntelliJ Idea
+.idea
+*.iml
+
+# Logs files
+*.log
+
+# Eclipse
+.project
+.classpath
+.settings
+.factorypath
